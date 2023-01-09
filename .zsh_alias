@@ -1,0 +1,13 @@
+# System
+alias update="sudo pacman -Syu"
+
+# GIT
+alias add="git add ."
+alias commit="git commit -m"
+alias pull="git pull origin"
+alias push="git push origin"
+alias merge="git merge"
+
+# Vim / Neovim
+alias v="nvim"
+
